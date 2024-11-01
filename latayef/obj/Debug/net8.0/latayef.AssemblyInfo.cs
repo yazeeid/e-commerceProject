@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("latayef")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b81c577fd88cf9102d34dcdacfbb5a2c5b8dc929")]
 [assembly: System.Reflection.AssemblyProductAttribute("latayef")]
 [assembly: System.Reflection.AssemblyTitleAttribute("latayef")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
